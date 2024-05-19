@@ -6,6 +6,11 @@ hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
 metafile = true
