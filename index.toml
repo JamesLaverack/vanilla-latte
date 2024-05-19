@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "3c970784695d7214ad244fd1b1af6f2d76cd4c41d67dd751c70f63d62239468d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
 metafile = true
