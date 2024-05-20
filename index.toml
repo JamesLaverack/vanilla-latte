@@ -5,6 +5,10 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "7e55785428ba319a677e281e8e4ffdcc8664b5bfb909866dfcd537afd2939a81"
 
 [[files]]
+file = "config/NoChatReports/README.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/bluemap/maps/end.conf"
 hash = "5662c16cdf62c650a8fa1e58021cff210b4d56b80a740f898e1eb9b990ced839"
 
