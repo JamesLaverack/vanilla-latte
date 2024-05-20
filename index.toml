@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "7e55785428ba319a677e281e8e4ffdcc8664b5bfb909866dfcd537afd2939a81"
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "3c970784695d7214ad244fd1b1af6f2d76cd4c41d67dd751c70f63d62239468d"
 metafile = true

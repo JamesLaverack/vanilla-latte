@@ -1,0 +1,6 @@
+{
+  "demandOnClient": false,
+  "enableDebugLog": false,
+  "convertToGameMessage": false,
+  "addQueryData": false
+}
