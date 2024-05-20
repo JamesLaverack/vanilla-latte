@@ -37,10 +37,6 @@ file = "config/bluemap/webserver.conf"
 hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
 
 [[files]]
-file = "modrinth.index.json"
-hash = "9079e1d24a36d87079924903dfa27571afdf3bd589e59a72e2df459b2493e68b"
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "3c970784695d7214ad244fd1b1af6f2d76cd4c41d67dd751c70f63d62239468d"
 metafile = true
