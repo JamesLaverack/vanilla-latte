@@ -25,6 +25,10 @@ file = "config/bluemap/plugin.conf"
 hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
 
 [[files]]
+file = "config/bluemap/resourcepacks/.keep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/bluemap/storages/file.conf"
 hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
 
