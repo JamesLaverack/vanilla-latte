@@ -1,6 +1,6 @@
 name = "No Chat Reports"
 filename = "NoChatReports-FABRIC-1.20.6-v2.7.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/FMAZBsZw/NoChatReports-FABRIC-1.20.6-v2.7.0.jar"

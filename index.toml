@@ -7,25 +7,25 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
+hash = "7633005cf5b1ef3e0b7e45c55016eed58efe143cd9ac14433303b71264085ef5"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
+hash = "7133fecbaeb15261470459b8c719bbf826ff20f33418f86b231d19f8bde63b2e"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
+hash = "df53a34ef15bd873f09d69ccc353ed97570a7f8dc388266c054faceee511c103"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
+hash = "53b0c170492cd21b8b6c3fa55f9bbd10435a41b15a3ab1b6d3276169a9c486c2"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "b6c8fe81a75bc2c3292ef642e62985c2d9e270ad26f7aa044ff33b906425e8a8"
+hash = "6cea32fc46cfe3e1ebcd98d7bb25c2c5b772253cae35957694f53e8ce0f35c90"
 metafile = true
