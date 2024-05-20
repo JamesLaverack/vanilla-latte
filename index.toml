@@ -5,6 +5,38 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "7e55785428ba319a677e281e8e4ffdcc8664b5bfb909866dfcd537afd2939a81"
 
 [[files]]
+file = "config/bluemap/maps/end.conf"
+hash = "5662c16cdf62c650a8fa1e58021cff210b4d56b80a740f898e1eb9b990ced839"
+
+[[files]]
+file = "config/bluemap/maps/nether.conf"
+hash = "8a4b0e4ce52aef139019ddb832db13062dec88e04a0074caae2f4b26fa001259"
+
+[[files]]
+file = "config/bluemap/maps/overworld.conf"
+hash = "82cabe7b963d8e520688f1d2bda6d75bec06c7a02050b7697b903008c5b9666e"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "e432cc1478308cd47177754911268c4119b14bc2775ff21194efda1001274fb7"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "3c970784695d7214ad244fd1b1af6f2d76cd4c41d67dd751c70f63d62239468d"
 metafile = true
