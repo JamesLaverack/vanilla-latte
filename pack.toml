@@ -1,6 +1,6 @@
 name = "Vanilla Latte"
 author = "James Laverack"
-version = "0.1.0"
+version = "1.20.6-latte.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
